@@ -1,2 +1,2 @@
 # Java-Project
-This is java project
+This is ATM - Interface project created by java 
